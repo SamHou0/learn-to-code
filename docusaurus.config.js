@@ -81,6 +81,11 @@ const config = {
             label: '开始学习',
           },
           {
+            href: 'https://blog.samhou.moe/',
+            label: '博客',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/SamHou0/learn-to-code',
             label: 'GitHub',
             position: 'right',
